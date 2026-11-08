@@ -20,3 +20,5 @@ Inicio; Porfolio y entregas; Antes de comenzar (práctica 0); Prácticas; Amplia
 Guía docente independiente: https://profetonino.github.io/maqueen-plus-v2/guia-docente.html
 
 Práctica 10 ampliada: recorrido de la señal IR, lectura en los LED de la micro:bit, dos ejemplos editables, mapa de teclas y diagnóstico de fallos. Los archivos .mkcd de esta carpeta son copias de archivo; el alumnado utiliza los enlaces directos de la web.
+
+Revisión global: las 12 prácticas contienen diccionario de bloques, recorrido del programa, montaje y pruebas específicas. Los 36 retos incluyen construcción, casos de prueba y pistas progresivas. P04 distingue RGB P15, índices 0–3, LED rojos y zumbador; P06 y P08 añaden diagnósticos editables de luz y sensores de línea.
