@@ -10,9 +10,11 @@ Abrir `index.html` en un navegador. El HTML contiene sus imágenes y ejemplos de
 GitHub Pages: rama main, carpeta raíz. Solo se necesitan index.html y .nojekyll; la carpeta proyectos-makecode conserva otra copia de los ejemplos.
 
 ## Nota docente
-La guía del profesorado y las soluciones están en el mismo documento público. El selector de vista no es una protección de acceso. La rúbrica recoge dimensiones observables; el docente debe vincularlas a los criterios curriculares de su materia y curso.
+La guía del profesorado y las soluciones están en guia-docente.html, separadas de index.html. El material del alumnado no las incluye ni enlaza a ellas. El repositorio y GitHub Pages son públicos; esta separación no es un control de acceso. La rúbrica recoge dimensiones observables; el docente debe vincularlas a los criterios curriculares de su materia y curso.
 
 Basado en el manual aportado de Maqueen Plus V2 y en la extensión oficial DFRobot. Fotografía oficial de DFRobot, enlazada y acreditada dentro de la web. Los accesorios opcionales se sitúan al final. La versión de Bachillerato con control automático se desarrollará aparte.
 
 ## Navegación
-Inicio con instrucciones generales; Práctica 0; Prácticas; Porfolio y entregas; Ampliaciones; Guía docente. Cada práctica muestra un apartado cada vez. El inicio no contiene ninguna práctica abierta.
+Inicio; Porfolio y entregas; Antes de comenzar (práctica 0); Prácticas; Ampliaciones. Cada práctica muestra un apartado cada vez. El inicio no contiene ninguna práctica abierta.
+
+Guía docente independiente: https://profetonino.github.io/maqueen-plus-v2/guia-docente.html
