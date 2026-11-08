@@ -179,4 +179,9 @@ function renderCourse(){
  if(lesson){const steps=stepsByLesson.get(lesson);const requested=steps.find(s=>s===target||s.contains(target));const chosen=requested||steps[0];steps.forEach(step=>step.hidden=step!==chosen);lesson.querySelectorAll('.lesson-nav a').forEach(a=>{const on=a.hash==='#'+chosen.id;if(on)a.setAttribute('aria-current','step');else a.removeAttribute('aria-current')});}
  if(view===portfolioView){const chosen=portfolioGroups.find(g=>g===target||g.contains(target))||portfolioGroups[0];portfolioGroups.forEach(g=>g.hidden=g!==chosen);portfolioTabs.querySelectorAll('a').forEach(a=>{if(a.hash==='#'+chosen.id)a.setAttribute('aria-current','step');else a.removeAttribute('aria-current')});}
  const active=view===homeView?'inicio':view===setupView?'p00':view===practiceView?'ruta':view===portfolioView?'portafolio':view===extraView?'ampliaciones':'teacher';
- topNav.querySelectorAll('a').forEach(a=>{if(a.dataset.viewLink===active)a.setAttribute('aria-current','p
+ topNav.querySelectorAll('a').forEach(a=>{if(a.dataset.viewLink===active)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current')});
+ window.scrollTo({top:0,behavior:'instant'});
+}
+window.addEventListener('hashchange',renderCourse);renderCourse();
+
+</script></html>
