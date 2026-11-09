@@ -26,3 +26,5 @@ Revisión global: las 12 prácticas contienen diccionario de bloques, recorrido 
 Pistas visuales: las 108 pistas de los 36 retos incorporan bloques reales de MakeCode, seleccionados por misión y nivel. Los 46 fragmentos nativos son ampliables y contienen indicaciones para encajarlos y adaptar sus valores.
 
 P08 añade ejemplos editables de seguimiento suave, parada/reanudación ante obstáculo y esquiva guiada con búsqueda de línea y centrado. Los valores temporales requieren calibración física en el circuito del aula.
+
+Explicaciones de programas: los 20 ejemplos incluyen recorrido de ejecución paso a paso; las 42 pilas de bloques incorporan descripción de sus acciones, datos y condiciones. La esquiva detalla parámetros, reloj, bucles acotados, permiso y retorno al programa principal.
