@@ -27,6 +27,8 @@ Pistas visuales: las 108 pistas de los 36 retos incorporan bloques reales de Mak
 
 P08 añade ejemplos editables de seguimiento suave, parada/reanudación ante obstáculo y esquiva guiada con búsqueda de línea y centrado. Los valores temporales requieren calibración física en el circuito del aula.
 
-Explicaciones de programas: los 20 ejemplos incluyen recorrido de ejecución paso a paso; las 42 pilas de bloques incorporan descripción de sus acciones, datos y condiciones. La esquiva detalla parámetros, reloj, bucles acotados, permiso y retorno al programa principal.
+Explicaciones de programas: los 20 ejemplos explican la intención, las decisiones relevantes y su efecto mediante un caso concreto. Las funciones complejas añaden una nota sobre por qué están organizadas así. Las ayudas de montaje quedan plegadas.
 
-Criterio de autoría: cualquier programa nuevo que combine funciones, eventos, condiciones o varias fases debe incluir orden de ejecución, explicación de sus bloques, datos y parámetros, y condiciones de salida o parada. La ampliación del diagrama debe conservar la explicación asociada.
+Criterio de autoría: explicar la lógica del código y distinguir lo importante de lo rutinario. En programas complejos, mostrar cómo se toman decisiones, se conserva estado, cambian las fases y se termina o se detiene. Evitar inventarios bloque a bloque. La vista ampliada conserva la explicación conceptual asociada.
+
+Enfoque de explicación: priorizar la lógica del código, las decisiones importantes, la memoria de estado y los cambios de fase. Utilizar un caso concreto para seguir la ejecución. Evitar inventarios rutinarios bloque a bloque; dejar el montaje como ayuda secundaria. La explicación conceptual acompaña también la vista ampliada.
