@@ -22,3 +22,5 @@ Guía docente independiente: https://profetonino.github.io/maqueen-plus-v2/guia-
 Práctica 10 ampliada: recorrido de la señal IR, lectura en los LED de la micro:bit, dos ejemplos editables, mapa de teclas y diagnóstico de fallos. Los archivos .mkcd de esta carpeta son copias de archivo; el alumnado utiliza los enlaces directos de la web.
 
 Revisión global: las 12 prácticas contienen diccionario de bloques, recorrido del programa, montaje y pruebas específicas. Los 36 retos incluyen construcción, casos de prueba y pistas progresivas. P04 distingue RGB P15, índices 0–3, LED rojos y zumbador; P06 y P08 añaden diagnósticos editables de luz y sensores de línea.
+
+Pistas visuales: las 108 pistas de los 36 retos incorporan bloques reales de MakeCode, seleccionados por misión y nivel. Los 46 fragmentos nativos son ampliables y contienen indicaciones para encajarlos y adaptar sus valores.
